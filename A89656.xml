@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from the siege before Yorke. Being a letter from an eminent person out of the Leaguer there; dated the 16. of June. 1644. Together with the articles for the rendring of it up, which were interchangably propounded and sent on both sides. Authorized according to order.</title>
+            <title>Newes from the siege before Yorke.</title>
+            <author>Eminent person out of the Leaguer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89656</idno>
+            <idno type="STC">Wing N1020</idno>
+            <idno type="STC">Thomason E52_9</idno>
+            <idno type="STC">ESTC R22955</idno>
+            <idno type="EEBO-CITATION">99871873</idno>
+            <idno type="PROQUEST">99871873</idno>
+            <idno type="VID">155196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155196)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from the siege before Yorke. Being a letter from an eminent person out of the Leaguer there; dated the 16. of June. 1644. Together with the articles for the rendring of it up, which were interchangably propounded and sent on both sides. Authorized according to order.</title>
+                  <title>Newes from the siege before Yorke.</title>
+                  <author>Eminent person out of the Leaguer.</author>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. O. for H. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune. 24. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Subscribed by The Earle of Leven.  The Lord Fairfax. The Earle of Manchester." [p. 6] as part of "Propositions sent from the three generalls for the Parliament to the treatie, June 14, 1644.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>York (England) --  History --  Siege, 1644 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155196:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>NEVVES From the Siege before YORKE.</p>
+            <p>BEING A Letter from an eminent perſon out of the Leaguer there; dated the 16. of <hi>June.</hi> 1644.</p>
+            <p>TOGETHER With the Articles for the ren<g ref="char:EOLhyphen"/>dring of it up, which were inter<g ref="char:EOLhyphen"/>changably propounded and ſent on both ſides.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Authorized according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. O.</hi> for <hi>H. S. Iune,</hi> 24. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155196:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:155196:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>A LETTER from an Eminent Perſonage at the Leagure before <hi>Yorke,</hi> dated there the 16. of <hi>June.</hi> 1644.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon Friday morning early the Marqueſſe <hi>New-caſtle</hi> wrote to our Generals offering a Parley to begin that after-noone at three a clock, and to continue till eight at night, and a ceſſation of Armes for three houres before, and three houres after to be held in Tent without the Wals, betwixt our Fort and theirs; with a <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of Guards, to ſuch number and diſtance as ſhould be <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe and neceſſarie: he named for Commiſsioners onely to treat <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or himſelfe. The Lord <hi>Widrington,</hi> Sir <hi>Thomas Glemham,</hi> Sir <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ichard Hutton,</hi> Sir <hi>William Wentworth,</hi> Sir <hi>Robert Strickland,</hi> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>Thomas Meſham,</hi> and Maſter <hi>Robert Rockley:</hi> Our Generalls accepted the offer in all poynts, and ſent for them; the Earle of <hi>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>indſey,</hi> the Lord <hi>Humby,</hi> Lieutenant Generall <hi>Baylie,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Fairefax</hi> Colonell <hi>Hamond,</hi> Colonell <hi>Ruſſell,</hi> and Colonell <hi>White:</hi> Theſe fourteen met on Friday laſt, and the enemy pro<g ref="char:EOLhyphen"/>pounded to our men certaine Articles which they brought in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n writing, but would not ſuffer our Commiſsioners to read nor other
+<pb facs="tcp:155196:3"/>
+               <!-- PDF PAGE 24 -->
+               <pb n="1" facs="tcp:155196:3"/>
+               <!-- PDF PAGE 24 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:155196:4"/>
+               <!-- PDF PAGE 25 -->
+coppy them. The Heads of them were ſuch as appeare in t<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other P<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r therewith ſent. Our Commiſſioners propound to them alſo certaine conditions, the true Coppy whereof I ſe<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> here alſo, offering a Coppy to the enemies to carry into York, be conſidered of, and after to return Anſwer. The enemies Com<g ref="char:EOLhyphen"/>miſsioners would not accept the Paper, but ſcornfully &amp; prou<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly ſaid, They were below their condition, and much other pro<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> language, which I c<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nno<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now write: ſo the Commiſsioners p<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted. But when Generall <hi>Leſley</hi> heard that the adverſaries Commi<g ref="char:EOLhyphen"/>ſioners refuſed to take the Paper containing the Conditions; h<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſently cloſed the Paper in a Letter to the Marqueſſe <hi>Now caſile,</hi> and ſent it by a Drum: Vnto which Letter and Pr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons the Marq <hi>New caſtle</hi> yeſterday after-noon returned an An<g ref="char:EOLhyphen"/>ſwer to this effect following. That our Generals pretending a de<g ref="char:EOLhyphen"/>ſire to prevent the effuſion of bloud, had framed and rendred t<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him ſuch Conditions as neither he nor any man of Hono<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with him could condiſcend unto any one of them: yet he would ſtill be teady to deliver up the Towne upon ſuch terme as he had offered him by his Commiſsioners the day before So you ſee the buſineſſe is now plainly left to be decided by th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sword, of which the common Souldiers on out Party are no<g ref="char:EOLhyphen"/>thing ſorry: The laſt night the enemy made fires on the to<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Minſter, and <hi>Cliffords Tower,</hi> and were anſwered b<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the like from <hi>Pomfret</hi> Caſtle, which is a ſignall of ſuccours com<g ref="char:EOLhyphen"/>ming towards them: but I ſee no likelihood of any: fo<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yeſterday and and this day alſo, we have Letters from Man<g ref="char:EOLhyphen"/>cheſter that Prince <hi>Rupert</hi> hath on Sa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urday and Friday laſ<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſent part of his Army and Ordnance over the River <hi>Merſ<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> into Cheſhire, and hath loſt one of his greateſt Pieces in the
+<pb n="3" facs="tcp:155196:4"/>
+               <!-- PDF PAGE 25 -->paſſage of the Water: Some conjecture he intends to beſiege <hi>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arrington:</hi> others thinke he goes to ſuccour the King: If he <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omes this way, our Armies are ready to encounter him.</p>
+            <p>After I had concluded this letter, word was brought mee that <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Earle of <hi>Mancheſters</hi> men never acquainting our other Forces <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith their intention, ſptung a myne this afternoon, which d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood execution, making a large breach in the wals into the man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by which thoſe forces entred and poſſeſſed themſelves of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Mannour, the enemies guards laying down their armes: But <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he enemie drawing all their forces that way, beate out our men gaine, with the loſſe of 200. of our partee, and the other armies <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not come to their ſuccour, having no notice of it.</p>
+         </div>
+         <div type="propositions">
+            <head>The heads of their Propoſitions, as I heard them reported by our Commiſſiioners at their re<g ref="char:EOLhyphen"/>turn, made by the Marqeſſe of <hi>Newcaſtles</hi> Commiſſioners, tou<g ref="char:EOLhyphen"/>ching the Rendition of Yorke, <hi>Iune</hi> 14, 1644.</head>
+            <p>Firſt, That himſelfe, with all the Commanders and ſouldiers, ſhould  march away to the King with all their Ordnance, Armes, ammu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, money, plate, bag and baggage, drums beating, colours fly<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, matches lighted, &amp;c.</p>
+            <p n="2">
+               <hi>2.</hi> That the Parliaments forces ſhould furniſh them with victuals, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arriages, and convoy through their Quarters, they marching one<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eight miles a day.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:155196:5"/>
+               <!-- PDF PAGE 26 -->
+               <hi>3.</hi> That the Citizens and others in <hi>Yorke</hi> ſhould not be queſti<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d acts.</p>
+            <p n="4">
+               <hi>4.</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> That no Oath or Covenant ſhould be impoſed upon any of the<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p n="5">
+               <hi>5.</hi> That the Churches and all belonging to them ſhould be preſer<g ref="char:EOLhyphen"/>ved from violence or defacing, and that the books of Common-pray<g ref="char:EOLhyphen"/>er ſhould be allowed to be uſed in them.</p>
+            <p n="6">
+               <hi>6.</hi> That b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore their forces march out or render the Towne, th<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould be allowed <hi>20.</hi> dayes liberty to expect forces from the King <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prince <hi>Ru<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> and if any came in the meane time, then they not <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be tyed to render the place at all.</p>
+            <p>
+               <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is I conceive was the ſubſtance, but I have them onely b<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> memory, which is apt to faile.</hi>
+            </p>
+         </div>
+         <div type="propositions">
+            <head>Propoſitions ſent from the three Generalls for the Parliament to the Treatie, <hi>June 14. 1644.</hi>
+            </head>
+            <p>
+               <hi>That the Citie of</hi> York <hi>with all the Forts, together with all arm<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ordnance, Ammunition, and other Warlike proviſions whatſoever in and about the ſame, be rendred up to us, for the uſe of the Ki<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Parliament.</hi>
+            </p>
+            <p>
+               <hi>Vpon the Conditions following,</hi> viz.</p>
+            <p>
+               <pb n="5" facs="tcp:155196:5"/>
+               <!-- PDF PAGE 26 -->
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt, That the Common Souldiers ſhall have free liberty and licence to depart and goe to their owne homes, and to carry <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith them their cloaths and their own moneyes, not exceeding <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dayes pay, and ſhall have ſafe conduct &amp; protection of their <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſons from violence; They promiſing that they will not here<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter take up Armes againſt the Parliament or Peoteſtant Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <p n="2">2. That the Citizens and ordinary Inhabitants of the ſaid Citie, ſhall have their Perſons, goods, and Houſes protected <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om violence, and ſhall have the ſame free Trade and Comerce <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s others under obedience of the King and Parliament, and that <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Regiments or Companies ſhall be admitted or quartered in <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Towne of <hi>Yorke,</hi> except thoſe that are appointed for the Ga<g ref="char:EOLhyphen"/>riſon thereof.</p>
+            <p n="3">3. That the Officers of all qualities ſhall have liberty to goe to <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own homes with Swords and Horſes, and ſhall have ſafe <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onduct to protection to that effect, and ſhall have licence to ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y their aparell and money along with them, the money not ex<g ref="char:EOLhyphen"/>ceeding one montſts pay for every ſeverall Officer.</p>
+            <p n="4">4. That any Officer, who ſhall be recommended by the Marq: of <hi>Newcaſtle,</hi> ſhall have a paſſe from any one of the Generalls to goe beyond the Seas, they promiſing not to ſerve againſt the Par<g ref="char:EOLhyphen"/>liament and Proteſtant Religion.</p>
+            <p n="5">5. That the Gentry and other Inhabitants of the County of <hi>Yorke</hi> ſhall have liberty to goe to their owne homes, and ſhall be protected from violence.</p>
+            <p n="6">
+               <pb n="6" facs="tcp:155196:6"/>
+               <!-- PDF PAGE 27 -->
+6. That a poſitive anſwer be returned to theſe Propoſiti<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by three of the clock to morrow in the Afternoone, being <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 15. of this inſtant <hi>Iune:</hi> And in caſe they ſhall not be then <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted, we ſhall not then hold our ſelves bound to them; and in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meane time we declare that there is no Ceſſation after 3. ho<gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> already granted.</p>
+            <closer>
+               <signed>Subſcribed by 
+<list>
+                     <item>The Earle of <hi>Leven.</hi>
+                     </item>
+                     <item>The Lord <hi>Fairfax.</hi>
+                     </item>
+                     <item>The Earle of <hi>Mancheſter.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
